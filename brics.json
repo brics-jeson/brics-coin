@@ -2,10 +2,12 @@
   "name": "Brics Coin",
   "symbol": "BRICS",
   "description": "Brics Coin is a vibrant, multi-colour community token that represents unity, diversity and financial empowerment. Designed to bring people together, Brics Coin aims to be a fun yet powerful digital currency.",
-  "image": "https://raw.githubusercontent.com/brics-jeson/brics-coin/main/brics.png"
+  "image": "https://raw.githubusercontent.com/brics-jeson/brics-coin/main/brics.png",
   "extensions": {
     "website": "https://bricscoin.org",
     "twitter": "https://twitter.com/bricscoin"
   }
 }
+
+
 
